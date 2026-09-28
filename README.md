@@ -1,4 +1,4 @@
-# ChamberCrawler3000 (CC3K)
+# chambercrawler3000 (cc3k)
 
 A terminal based roguelike written in modern C++, built by a team of three as the final project for CS246: Object Oriented Software Development at the University of Waterloo.
 
