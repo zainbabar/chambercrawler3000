@@ -6,7 +6,8 @@ A terminal based roguelike written in modern C++, built by a team of three as th
 
 This was a CS246 project at the University of Waterloo, and course staff don't let students post assignment solutions publicly since the project gets reused in later terms. This repo has no code or UML in it, just this writeup.
 
-If you're a recruiter or hiring manager and want to go through the implementation in more depth, reach out and we're happy to talk through it.
+**Recruiter Link:** zainbabar.dev/cc3k
+If you're a recruiter with the access password, you can go through a walkthrough here. 
 
 ## Overview
 
