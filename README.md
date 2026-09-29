@@ -17,7 +17,7 @@ The codebase is organized into a character system, a world model, items, generat
 ## Features
 
 * Turn based dungeon exploration across five floors
-* Five playable races and twelve enemy types, each with its own passive ability
+* Five playable races and seven enemy types, each with its own passive ability
 * Combat where damage depends on both fighters' specific types, not just attacker vs defender stats
 * Potions with hidden effects until first use, some temporary and some permanent
 * Gold and treasure, including hoards guarded by dragons
